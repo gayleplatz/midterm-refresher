@@ -24,9 +24,10 @@ section {
 	float: left;
 }
 footer p {
-	width: 500px
+	width: 500px;
 	float: left;
 }
 .clearfix {
 	clear: both;
 }
+
